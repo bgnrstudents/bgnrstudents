@@ -14,10 +14,10 @@
   <a href="https://github.com/bgnrstudents">
     <img src="https://img.shields.io/badge/GitHub-bgnrstudents-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:emailkamu@example.com">
+  <a href="mailto:contact.rizki@example.com">
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/usernamekamu">
+  <a href="https://linkedin.com/in/muhammadrizki">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -29,9 +29,9 @@
 ### 🚀 About Me
 
 - 🎓 **Education:** Informatics Engineering Student focused on Web & Mobile Software Development.
-- 💡 **Focus Areas:** Modern Web Applications, Mobile App Development, REST API Integration & Database Management.
+- 💡 **Focus Areas:** Modern Web Applications, Mobile App Development, REST API Integration & Database Design.
 - 🛠️ **Current Endeavors:** Building cross-platform mobile apps using Flutter and fullstack web applications.
-- 🎨 **Creative Edge:** Combining technical logic with visual aesthetics and UI/UX design awareness.
+- 🎨 **Creative Edge:** Combining backend logic with intuitive UI/UX design awareness.
 
 ---
 
@@ -62,15 +62,15 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌐 Modern Web Solution</h3>
+      <h3 align="center">🌾 HayFarm Livestock System</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
-      <p>Responsive web system featuring robust backend architecture, database integration, and intuitive user dashboard interfaces.</p>
+      <p>Livestock data management and Teaching Factory (TEFA) information system focused on streamlined operations and reporting.</p>
       <p align="center">
-        <a href="https://github.com/bgnrstudents"><b>View Repository →</b></a>
+        <a href="https://github.com/bgnrstudents/HayFarm"><b>View Repository →</b></a>
       </p>
     </td>
   </tr>
@@ -95,7 +95,7 @@
 
 <div align="center">
 
-*Continuous Learning & Technical Growth*  
+*Keep growing. Keep adapting. Or fade away.*  
 **Muhammad Rizki** · Portfolio & Open Source Contribution
 
 </div>
