@@ -1,80 +1,93 @@
-
 <div align="center">
 
-# Muhammad Rizki
+<!-- Animated Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7BC99A&center=true&vCenter=true&width=600&height=50&lines=Muhammad+Rizki;Informatics+Engineering+Student;Web+%26+Mobile+Developer;Building+Practical+Solutions." alt="Typing SVG" />
+</a>
 
-### Software Developer in Progress.
+<p align="center">
+  <em>Passionate about software engineering, clean code, and building impactful digital products.</em>
+</p>
 
-Informatics Student · Backend · Web Development · Mobile
-
-*Building practical solutions, one project at a time.*
-
-[GitHub Profile](https://github.com/bgnrstudents)
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://github.com/bgnrstudents">
+    <img src="https://img.shields.io/badge/GitHub-bgnrstudents-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:emailkamu@example.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/usernamekamu">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## ABOUT
+### 🚀 About Me
 
-I'm an Informatics student interested in building useful software
-and understanding how applications work behind the scenes.
+- 🎓 **Education:** Informatics Engineering Student focused on Web & Mobile Software Development.
+- 💡 **Focus Areas:** Modern Web Applications, Mobile App Development, REST API Integration & Database Management.
+- 🛠️ **Current Endeavors:** Building cross-platform mobile apps using Flutter and fullstack web applications.
+- 🎨 **Creative Edge:** Combining technical logic with visual aesthetics and UI/UX design awareness.
 
-Currently exploring backend development, web technologies,
-mobile applications, and database design through hands-on projects.
+---
 
-- Learning by building and improving real projects
-- Interested in clean code, problem-solving, and collaboration
-- Focused on continuous growth as a software developer
+### 🧰 Tech Stack
 
-## SELECTED PROJECTS
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **Backend & Mobile** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
+| **Database & Tools** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+| **UI/UX & Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
 
-### 01 / HayFarm
-**Livestock Information System**
+---
 
-A project for livestock data management and TEFA-related information.
+### 📌 Featured Projects
 
-`PHP` `MySQL` `JavaScript`
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📱 Djajan Mobile</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+      </p>
+      <p>A mobile application designed to empower local micro-enterprises (UMKM) in Desa Kreyongan Atas with direct product showcase and ordering capabilities.</p>
+      <p align="center">
+        <a href="https://github.com/bgnrstudents/djajan-mobile"><b>View Repository →</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 Modern Web Solution</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+      <p>Responsive web system featuring robust backend architecture, database integration, and intuitive user dashboard interfaces.</p>
+      <p align="center">
+        <a href="https://github.com/bgnrstudents"><b>View Repository →</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-[Explore Repository →](https://github.com/bgnrstudents/HayFarm)
+---
 
-### 02 / Djajan Mobile
-**Local UMKM Mobile Application**
-
-A collaborative academic project focused on supporting local
-UMKM in Desa Kreyongan Atas.
-
-`Flutter` `Dart`
-
-[Explore Repository →](https://github.com/bgnrstudents/djajan-mobile)
-
-## TECHNOLOGIES
-
-**Languages & Web**
-
-![PHP](https://img.shields.io/badge/PHP-18181B?style=flat-square&logo=php&logoColor=9CA3FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-18181B?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-18181B?style=flat-square&logo=css3&logoColor=1572B6)
-
-**Mobile & Database**
-
-![Dart](https://img.shields.io/badge/Dart-18181B?style=flat-square&logo=dart&logoColor=54C5F8)
-![Flutter](https://img.shields.io/badge/Flutter-18181B?style=flat-square&logo=flutter&logoColor=54C5F8)
-![MySQL](https://img.shields.io/badge/MySQL-18181B?style=flat-square&logo=mysql&logoColor=4479A1)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=FFFFFF)
-
-## GITHUB OVERVIEW
+### 📊 GitHub Activity & Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bgnrstudents&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7BC99A&text_color=C9D1D9&icon_color=7BC99A" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=bgnrstudents&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=bgnrstudents&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgnrstudents&layout=compact&hide_border=true&bg_color=0D1117&title_color=7BC99A&text_color=C9D1D9" alt="Most used languages" />
+<br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgnrstudents&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 
 </div>
 
@@ -82,6 +95,7 @@ UMKM in Desa Kreyongan Atas.
 
 <div align="center">
 
-*Keep growing. Keep adapting.*
+*Continuous Learning & Technical Growth*  
+**Muhammad Rizki** · Portfolio & Open Source Contribution
 
 </div>
