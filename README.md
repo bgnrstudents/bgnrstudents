@@ -106,23 +106,24 @@
 
 ---
 
-### 📊 GitHub Analytics & Activity
+###  GitHub Analytics & Activity
 
 <div align="center">
   
-  <!-- GitHub Profile Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=bgnrstudents&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophy" />
+  <!-- Profile Details -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bgnrstudents&theme=tokyonight" alt="Profile Details" />
   
-  <br/><br/>
+  <br/>
   
-  <!-- Stats Card (Fork yang lebih stabil) -->
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bgnrstudents&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=bgnrstudents&theme=tokyonight&hide_border=true" alt="Streak" />
+  <!-- Language Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bgnrstudents&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bgnrstudents&theme=tokyonight" alt="Most Commit Language" />
   
-  <br/><br/>
+  <br/>
   
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bgnrstudents&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <!-- Stats & Productive Time -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bgnrstudents&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bgnrstudents&theme=tokyonight&utcOffset=7" alt="Productive Time" />
 
 </div>
 
