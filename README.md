@@ -116,7 +116,8 @@
 
 </div>
 
-<br/><br/>
+---
+
 ### 📊 Daily Contribution Activity
 <!-- Snake Animation dalam Table -->
 <table align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
@@ -127,18 +128,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### 🎧 Now Playing
-
-<div align="center">
-  <!-- Ganti 'your-spotify-username' dengan username Spotify lo -->
-  <!-- Setup detail ada di penjelasan bawah -->
-  <a href="https://open.spotify.com/user/your-spotify-username">
-    <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=2d2d2d" alt="Spotify Now Playing" />
-  </a>
-</div>
 
 ---
 
