@@ -109,9 +109,11 @@
 ### 📊 GitHub Analytics & Activity
 
 <div align="center">
+
+ <!-- Stats & Streak (Side by Side - Clean Look) -->
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=bgnrstudents&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Stats" />
+  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=bgnrstudents&theme=dracula&hide_border=true" alt="Streak" />
   
-<!-- Profile Summary Cards (Lebih stabil) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bgnrstudents&theme=tokyonight" alt="Profile Details" />
   
   <br/><br/>
   
