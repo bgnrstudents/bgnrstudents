@@ -117,7 +117,8 @@
   <br/><br/>
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgnrstudents&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" />
+  <!-- Top Languages (Stable Version) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bgnrstudents&theme=dracula" alt="Top Languages" />
 
 </div>
 
