@@ -116,11 +116,12 @@
 
 </div>
 
-<br/>
+<br/><br/>
 
-<!-- Snake Animation (Wajib ada biar keren) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/bgnrstudents/bgnrstudents/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Dark" />
+<!-- Snake Animation dengan Background -->
+<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 12px; border: 1px solid #30363d;">
+  <img src="https://raw.githubusercontent.com/bgnrstudents/bgnrstudents/output/github-contribution-grid-snake-dark.svg" 
+       alt="Snake Animation Dark" />
 </div>
 
 ---
