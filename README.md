@@ -118,11 +118,15 @@
 
 <br/><br/>
 
-<!-- Snake Animation dengan Background -->
-<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 12px; border: 1px solid #30363d;">
-  <img src="https://raw.githubusercontent.com/bgnrstudents/bgnrstudents/output/github-contribution-grid-snake-dark.svg" 
-       alt="Snake Animation Dark" />
-</div>
+<!-- Snake Animation dalam Table -->
+<table align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/bgnrstudents/bgnrstudents/output/github-contribution-grid-snake-dark.svg" 
+           alt="Snake Animation Dark" />
+    </td>
+  </tr>
+</table>
 
 ---
 
