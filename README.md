@@ -113,12 +113,6 @@
   <!-- Stats & Streak -->
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=bgnrstudents&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=bgnrstudents&theme=tokyonight&hide_border=true" alt="Streak" />
-  
-  <br/><br/>
-  
-  <!-- Top Languages -->
-  <!-- Top Languages (Stable Version) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bgnrstudents&theme=dracula" alt="Top Languages" />
 
 </div>
 
