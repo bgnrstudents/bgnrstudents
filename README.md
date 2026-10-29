@@ -130,7 +130,7 @@
 
 <!-- Snake Animation (Wajib ada biar keren) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bgnrstudents/bgnrstudents/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/bgnrstudents/bgnrstudents/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Dark" />
 </div>
 
 ---
