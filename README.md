@@ -110,8 +110,8 @@
 
 <div align="center">
   
-  <!-- GitHub Profile Trophy (Lebih keren dari stats biasa) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=bgnrstudents&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophy" />
+<!-- Profile Summary Cards (Lebih stabil) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bgnrstudents&theme=tokyonight" alt="Profile Details" />
   
   <br/><br/>
   
