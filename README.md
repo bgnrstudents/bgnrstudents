@@ -117,7 +117,7 @@
   <br/><br/>
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgnrstudents&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgnrstudents&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" />
 
 </div>
 
