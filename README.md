@@ -110,19 +110,19 @@
 
 <div align="center">
   
-  <!-- GitHub Profile Trophy (Lebih keren dari stats biasa) -->
+  <!-- GitHub Profile Trophy -->
   <img src="https://github-profile-trophy.vercel.app/?username=bgnrstudents&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophy" />
   
   <br/><br/>
   
-  <!-- Stats & Streak -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bgnrstudents&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
+  <!-- Stats Card (Fork yang lebih stabil) -->
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bgnrstudents&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=bgnrstudents&theme=tokyonight&hide_border=true" alt="Streak" />
   
   <br/><br/>
   
   <!-- Top Languages -->
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgnrstudents&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages Donut" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bgnrstudents&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
