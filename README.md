@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Ganti src ini dengan banner custom buatan lo sendiri (ukuran 1500x400px) -->
   <!-- Kalau belum ada, bisa pakai placeholder gradient atau ilustrasi tech -->
- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=200&section=header&text=Muhammad%20Rizki&fontSize=65&fontColor=7BC99A&animation=fadeIn&fontAlignY=40&desc=Informatics%20Engineering%20Student&descSize=20&descColor=ffffff&descAlignY=65&descAlign=60" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,100:24243e&height=220&section=header&text=Muhammad%20Rizki&fontSize=70&fontColor=00d4ff&animation=twinkling&fontAlignY=38&desc=Web%20%26%20Mobile%20Developer&descSize=22&descColor=ffffff&descAlignY=68&descAlign=60" alt="Header" />
   
   <p align="center">
     <a href="https://git.io/typing-svg">
