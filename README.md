@@ -1,7 +1,10 @@
 <div align="center">
   <!-- Ganti src ini dengan banner custom buatan lo sendiri (ukuran 1500x400px) -->
-  <!-- Kalau belum ada, bisa pakai placeholder gradient atau ilustrasi tech -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,100:24243e&height=220&section=header&text=Muhammad%20Rizki&fontSize=70&fontColor=00d4ff&animation=twinkling&fontAlignY=38&desc=Web%20%26%20Mobile%20Developer&descSize=22&descColor=ffffff&descAlignY=68&descAlign=60" alt="Header" />
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F0E,50:10251C,100:174D35&height=220&section=header&text=Muhammad%20Rizki&fontSize=52&fontColor=E8F0EA&fontAlign=8&fontAlignY=42&desc=INFORMATICS%20STUDENT%20%7C%20SOFTWARE%20DEVELOPER&descSize=15&descAlign=8&descAlignY=62&animation=fadeIn&fontFamily=Segoe%20UI"
+  width="100%"
+  alt="Muhammad Rizki - Developer Profile"
+/>
   
   <p align="center">
     <a href="https://git.io/typing-svg">
