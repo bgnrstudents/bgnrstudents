@@ -110,7 +110,6 @@
 <div align="center">
   
   <!-- Stats & Streak -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bgnrstudents&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=bgnrstudents&theme=tokyonight&hide_border=true" alt="Streak" />
 
 </div>
