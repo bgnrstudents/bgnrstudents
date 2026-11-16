@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Ganti src ini dengan banner custom buatan lo sendiri (ukuran 1500x400px) -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=180&section=header&text=Muhammad%20Rizki&fontSize=60&fontColor=7BC99A&animation=fadeIn&fontAlignY=45&stroke=7BC99A&strokeWidth=1" alt="Header" />
+<img src="assets/banner.svg" width="100%" alt="Muhammad Rizki — Building Digital Experiences" />
   
   <p align="center">
     <a href="https://git.io/typing-svg">
@@ -33,44 +33,16 @@
 ---
 
 ### 🛠️ Tech Stack & Tools
+Tools and technologies I use across different parts of the development process.
 
-<details open>
-<summary><b>🌐 Frontend & Mobile</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-</details>
+<div align="center">
 
-<details open>
-<summary><b>⚙️ Backend & Database</b></summary>
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,js,html,css,tailwind,laravel,php,nodejs,mysql,postgres,git" alt="Technology icons" />
 <br/>
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-</details>
+<img src="https://skillicons.dev/icons?i=github,vscode" alt="Tech Stack Row 2" />
 
-<details open>
-<summary><b>🧰 Tools & Design</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-</details>
+</div>
+
 
 ---
 
@@ -103,14 +75,12 @@
   </tr>
 </table>
 
----
+
 
 ### 📊 GitHub Analytics & Activity
 
 <div align="center">
-  
-  <!-- Stats & Streak -->
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=bgnrstudents&theme=tokyonight&hide_border=true" alt="Streak" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=bgnrstudents&theme=transparent&hide_border=true&background=0B0D0F&ring=A3E635&fire=A3E635&currStreakLabel=A3E635&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
 
 </div>
 
@@ -121,8 +91,7 @@
 <table align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/bgnrstudents/bgnrstudents/output/github-contribution-grid-snake-dark.svg" 
-           alt="Snake Animation Dark" />
+<img src="https://raw.githubusercontent.com/bgnrstudents/bgnrstudents/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph animation" width="100%" />
     </td>
   </tr>
 </table>
