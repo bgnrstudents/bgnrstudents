@@ -1,139 +1,108 @@
 <div align="center">
-  <!-- Ganti src ini dengan banner custom buatan lo sendiri (ukuran 1500x400px) -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=180&section=header&text=Muhammad%20Rizki&fontSize=60&fontColor=7BC99A&animation=fadeIn&fontAlignY=45&stroke=7BC99A&strokeWidth=1" alt="Header" />
-  
-  <p align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7BC99A&center=true&vCenter=true&width=700&lines=Informatics+Engineering+Student;Crafting+Web+%26+Mobile+Experiences;Turning+Coffee+into+Clean+Code" alt="Typing SVG" />
-    </a>
-  </p>
 
-  <!-- Social Badges (Lebih minimalis dan elegan) -->
-  <p align="center">
-    <a href="https://github.com/bgnrstudents" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://linkedin.com/in/muhammadrizki" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:contact.rizki@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <!-- Ganti link ini dengan link portfolio/website lo kalau ada -->
-    <a href="https://rizki.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" /></a>
-  </p>
-</div>
+<img src="assets/banner.svg" alt="Muhammad Rizki — Software Developer" width="100%" />
 
----
-
-### 👨‍💻 About Me
-
-> *"Building practical solutions with clean code and intuitive design."*
-
-- 🎓 **Education:** Informatics Engineering Student | Focused on Software Engineering.
-- 🚀 **Current Focus:** Building scalable cross-platform mobile apps (Flutter) & robust fullstack web systems (Laravel/React).
-- 💡 **My Philosophy:** I don't just write code; I build digital products that solve real-world problems with a strong emphasis on UI/UX.
-- 🌱 **Currently Exploring:** Cloud deployment, CI/CD pipelines, and advanced state management in Flutter.
-- ⚡ **Fun Fact:** I believe the best code is the one that is easy to read and maintain.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<details open>
-<summary><b>🌐 Frontend & Mobile</b></summary>
 <br/>
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-</details>
 
-<details open>
-<summary><b>⚙️ Backend & Database</b></summary>
+**Software Developer · Informatics Engineering Student**
+
+Building practical digital products through thoughtful engineering, clean code, and continuous learning.
+
 <br/>
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-</details>
 
-<details open>
-<summary><b>🧰 Tools & Design</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-</details>
-
----
-
-### 📌 Featured Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📱 Djajan Mobile</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-      </p>
-      <p><b>Empowering Local UMKM.</b> A mobile app for Desa Kreyongan Atas micro-enterprises to showcase products and manage direct orders seamlessly.</p>
-      <p align="center">
-        <a href="https://github.com/bgnrstudents/djajan-mobile"><b>View Repository →</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌾 HayFarm System</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      </p>
-      <p><b>Teaching Factory (TEFA) System.</b> Comprehensive livestock data management and operational reporting system for HayFarm.</p>
-      <p align="center">
-        <a href="https://github.com/bgnrstudents/HayFarm"><b>View Repository →</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Analytics & Activity
-
-<div align="center">
-  
-  <!-- Stats & Streak -->
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=bgnrstudents&theme=tokyonight&hide_border=true" alt="Streak" />
+[![GitHub](https://img.shields.io/badge/GitHub-bgnrstudents-171B1F?style=flat-square&logo=github&logoColor=A3E635)](https://github.com/bgnrstudents)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-171B1F?style=flat-square&logo=linkedin&logoColor=A3E635)](https://linkedin.com/in/muhammadrizki)
 
 </div>
 
 ---
 
-### 📊 Daily Contribution Activity
-<!-- Snake Animation dalam Table -->
-<table align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
+## 01 / Introduction
+
+Hi, I'm **Muhammad Rizki** — an Informatics Engineering student interested in building useful web and mobile applications.
+
+I enjoy turning ideas into working products, from mobile experiences to web-based management systems. I care about writing maintainable code, understanding the problem behind a feature, and creating interfaces that feel straightforward to use.
+
+- **Focus:** Mobile & Full-Stack Web Development
+- **Mobile:** Flutter and Dart
+- **Web:** Laravel, React, JavaScript, and PHP
+- **Exploring:** Cloud deployment, CI/CD, and advanced state management
+- **Mindset:** Learn continuously. Build intentionally. Improve consistently.
+
+## 02 / Selected Work
+
+A selection of projects focused on practical problems and real-world use cases.
+
+<table>
   <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/bgnrstudents/bgnrstudents/output/github-contribution-grid-snake-dark.svg" 
-           alt="Snake Animation Dark" />
+    <td width="50%" valign="top">
+      <p><strong>01 — DJAJAN MOBILE</strong></p>
+      <p><strong>Helping local businesses reach more people.</strong></p>
+      <p>A mobile application for micro, small, and medium enterprises in Desa Kreyongan Atas to showcase products and manage direct orders.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-171B1F?style=flat-square&logo=flutter&logoColor=A3E635" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Dart-171B1F?style=flat-square&logo=dart&logoColor=A3E635" alt="Dart" />
+      </p>
+      <a href="https://github.com/bgnrstudents/djajan-mobile">View repository ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>02 — HAYFARM SYSTEM</strong></p>
+      <p><strong>Bringing structure to farm operations.</strong></p>
+      <p>A web-based management system for the HayFarm Teaching Factory (TEFA), supporting livestock data management and operational reporting.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-171B1F?style=flat-square&logo=laravel&logoColor=A3E635" alt="Laravel" />
+        <img src="https://img.shields.io/badge/MySQL-171B1F?style=flat-square&logo=mysql&logoColor=A3E635" alt="MySQL" />
+      </p>
+      <a href="https://github.com/bgnrstudents/HayFarm">View repository ↗</a>
     </td>
   </tr>
 </table>
 
+## 03 / Engineering Toolkit
+
+Tools and technologies I use across different parts of the development process.
+
+| Area | Technologies |
+|---|---|
+| **Mobile** | Flutter · Dart |
+| **Frontend** | React · JavaScript · HTML · CSS · Tailwind CSS |
+| **Backend** | Laravel · PHP · Node.js |
+| **Database** | MySQL · PostgreSQL |
+| **Tools** | Git · GitHub · VS Code · Figma · Postman |
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,js,html,css,tailwind,laravel,php,nodejs,mysql,postgres,git,github,vscode,figma,postman" alt="Technology icons" />
+
+</div>
+
+## 04 / GitHub Activity
+
+A small snapshot of my learning and building journey.
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=bgnrstudents&show_icons=true&hide_border=true&bg_color=0B0D0F&title_color=A3E635&icon_color=A3E635&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=bgnrstudents&theme=transparent&hide_border=true&background=0B0D0F&ring=A3E635&fire=A3E635&currStreakLabel=A3E635&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/bgnrstudents/bgnrstudents/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph animation" width="100%" />
+
+</div>
+
 ---
 
 <div align="center">
-  <br/>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=bgnrstudents&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </p>
-  <p><i>"Keep growing. Keep adapting. Or fade away."</i></p>
-  <p>© 2026 Muhammad Rizki · Built with ❤️ and ☕</p>
+
+<img src="assets/monogram.svg" width="64" alt="MR monogram" />
+
+**Let's build something meaningful.**
+
+<sub>Keep learning. Keep building. Keep evolving.</sub>
+
+<br/>
+
+<sub>© 2026 Muhammad Rizki · Designed with intention, built with passion.</sub>
+
 </div>

@@ -1,0 +1,33 @@
+<svg width="1600" height="440" viewBox="0 0 1600 440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="440" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B0D0F"/>
+      <stop offset="1" stop-color="#151A18"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#D9F99D"/>
+      <stop offset="1" stop-color="#84CC16"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" stroke="#FFFFFF" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="440" rx="24" fill="url(#bg)"/>
+  <rect width="1600" height="440" rx="24" fill="url(#grid)"/>
+  <circle cx="1390" cy="80" r="270" fill="#A3E635" fill-opacity=".055"/>
+  <circle cx="1390" cy="80" r="190" stroke="#A3E635" stroke-opacity=".16"/>
+  <circle cx="1390" cy="80" r="130" stroke="#A3E635" stroke-opacity=".12"/>
+  <path d="M0 350H1600" stroke="#A3E635" stroke-opacity=".28"/>
+  <rect x="92" y="74" width="5" height="220" rx="2.5" fill="url(#accent)"/>
+  <text x="128" y="104" fill="#A3E635" font-family="monospace" font-size="18" letter-spacing="5">MR. / SOFTWARE DEVELOPER</text>
+  <text x="122" y="208" fill="#F3F4F6" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">MUHAMMAD RIZKI</text>
+  <text x="128" y="260" fill="#B8C0B8" font-family="Arial, Helvetica, sans-serif" font-size="25">Building digital experiences with thoughtful engineering.</text>
+  <text x="128" y="388" fill="#A3E635" font-family="monospace" font-size="16" letter-spacing="3">FLUTTER  /  LARAVEL  /  REACT</text>
+  <text x="1505" y="388" text-anchor="end" fill="#8B949E" font-family="monospace" font-size="14">INDONESIA · 2026</text>
+  <g transform="translate(1275 170)">
+    <rect x="0" y="0" width="190" height="190" rx="26" stroke="#A3E635" stroke-opacity=".55" stroke-width="2"/>
+    <path d="M44 48H87C119 48 136 65 136 94C136 123 119 140 87 140H44V48Z" stroke="#A3E635" stroke-width="8" stroke-linejoin="round"/>
+    <path d="M66 48V140M66 94H121" stroke="#F3F4F6" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="153" cy="37" r="6" fill="#A3E635"/>
+  </g>
+</svg>
