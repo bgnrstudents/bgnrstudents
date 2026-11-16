@@ -10,8 +10,19 @@ Building practical digital products through thoughtful engineering, clean code, 
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-bgnrstudents-171B1F?style=flat-square&logo=github&logoColor=A3E635)](https://github.com/bgnrstudents)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-171B1F?style=flat-square&logo=linkedin&logoColor=A3E635)](https://linkedin.com/in/muhammadrizki)
+
+<div align="center">
+
+<a href="https://github.com/bgnrstudents">
+  <img src="https://img.shields.io/badge/GitHub-bgnrstudents-171B1F?style=flat-square&logo=github&logoColor=A3E635" />
+</a>
+
+<a href="https://linkedin.com/in/muhammadrizki">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-171B1F?style=flat-square&logo=linkedin&logoColor=A3E635" />
+</a>
+
+</div>
+
 
 </div>
 
@@ -76,20 +87,38 @@ Tools and technologies I use across different parts of the development process.
 
 </div>
 
+
 ## 04 / GitHub Activity
 
 A small snapshot of my learning and building journey.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bgnrstudents&show_icons=true&hide_border=true&bg_color=0B0D0F&title_color=A3E635&icon_color=A3E635&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=bgnrstudents&theme=transparent&hide_border=true&background=0B0D0F&ring=A3E635&fire=A3E635&currStreakLabel=A3E635&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+  <!-- GitHub Stats -->
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=bgnrstudents&show_icons=true&hide_border=true&bg_color=0B0D0F&title_color=A3E635&icon_color=A3E635&text_color=C9D1D9&rank_icon=github"
+    alt="GitHub Statistics"
+  />
 
-<br/>
+  <!-- GitHub Streak -->
+  <img
+    height="165"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=bgnrstudents&theme=transparent&hide_border=true&background=0B0D0F&ring=A3E635&fire=A3E635&currStreakLabel=A3E635&sideLabels=C9D1D9&dates=8B949E"
+    alt="GitHub Contribution Streak"
+  />
 
-<img src="https://raw.githubusercontent.com/bgnrstudents/bgnrstudents/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph animation" width="100%" />
+  <br/>
+
+  <!-- Contribution Snake -->
+  <img
+    src="https://raw.githubusercontent.com/bgnrstudents/bgnrstudents/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 
 </div>
+
 
 ---
 
