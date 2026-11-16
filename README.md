@@ -1,4 +1,4 @@
-&#x20;\<div align="center">
+<div align="center">
 
 \<img src="assets/banner.svg" width="100%" alt="Muhammad Rizki — Software Developer" />
 
