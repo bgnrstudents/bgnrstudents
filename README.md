@@ -94,13 +94,6 @@ A small snapshot of my learning and building journey.
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=bgnrstudents&show_icons=true&hide_border=true&bg_color=0B0D0F&title_color=A3E635&icon_color=A3E635&text_color=C9D1D9&rank_icon=github"
-    alt="GitHub Statistics"
-  />
-
   <!-- GitHub Streak -->
  <img
   height="165"
