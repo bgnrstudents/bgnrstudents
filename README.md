@@ -102,13 +102,11 @@ A small snapshot of my learning and building journey.
   />
 
   <!-- GitHub Streak -->
-  <img
-    height="165"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=bgnrstudents&theme=transparent&hide_border=true&background=0B0D0F&ring=A3E635&fire=A3E635&currStreakLabel=A3E635&sideLabels=C9D1D9&dates=8B949E"
-    alt="GitHub Contribution Streak"
-  />
-
-  <br/>
+ <img
+  height="165"
+  src="https://github-readme-streak-stats-eight.vercel.app/?user=bgnrstudents&theme=transparent&hide_border=true&background=0B0D0F&ring=A3E635&fire=A3E635&currStreakLabel=A3E635&sideLabels=C9D1D9&dates=8B949E"
+  alt="GitHub Streak"
+/>
 
   <!-- Contribution Snake -->
   <img
